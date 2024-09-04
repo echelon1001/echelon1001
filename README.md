@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @echelon1001
+- 👋 Hi, I’m Kyle Brooks
 - 👀 I’m interested in Data Analysis
 - 📫 How to reach me ...echelon1001@gmail.com
 
